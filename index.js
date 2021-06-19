@@ -1,5 +1,5 @@
 const axios = require("axios")
-const urls = ["https://fvckboy.glitch.me"]
+const urls = ["https://fvckboy.glitch.me", "https://bot-paw-arka.glitch.me"]
 const urls = ["https://bot-paw-arka.glitch.me"]
 setInterval(function() {
             urls.forEach(url => {
